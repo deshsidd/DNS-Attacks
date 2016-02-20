@@ -1,0 +1,8 @@
+id, 19897
+frag, 0
+ttl, 64
+saddr, 10.0.2.10
+daddr, 10.0.2.8
+proto, udp
+interval, 0.05
+tos,!
